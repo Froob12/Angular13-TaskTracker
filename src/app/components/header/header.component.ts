@@ -14,4 +14,8 @@ title: string = 'Task Tracker';
   ngOnInit(): void {
   }
 
+  toggleAddTask(){
+    console.log('Toggle');
+  }
+
 }
