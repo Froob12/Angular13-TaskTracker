@@ -20,6 +20,6 @@ ng build
 
 ## To do
 
-* Implementing an edit task component
-* Implementing unit testing
-* Implementing a phpmyAdmin local server
+* Implement an edit task component
+* Implement unit testing
+* Implement a phpmyAdmin local server to do CRUD operation
